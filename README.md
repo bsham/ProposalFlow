@@ -19,7 +19,7 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
   - Download a ImageNet [Caffe Reference model] (http://www.vlfeat.org/matconvnet/pretrained/) in `./feature/cnn-model/`. 
 
 ## Setup & Run
-  - Set the file path of these libraries in `set_path.m`, and run
+  Set the file path of these libraries in `set_path.m`, and run
   
   ```
   ./demo.m
