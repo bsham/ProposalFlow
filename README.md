@@ -18,10 +18,8 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
     - [Multiscale Combinatorial Grouping] (https://github.com/jponttuset/mcg);
   - Download a ImageNet [Caffe Reference model] (http://www.vlfeat.org/matconvnet/pretrained/) in `./feature/cnn-model/`. 
 
-## Setup
-  - Set the file path of these libraries in `set_path.m`.
-  
-## Run  
+## Setup & Run
+  - Set the file path of these libraries in `set_path.m`, and run
   ```
   ./demo.m
   ```
