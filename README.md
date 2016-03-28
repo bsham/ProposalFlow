@@ -64,7 +64,7 @@ year = {2016}
 }
 ```
 
-  - This code uses the author provided source codes for generating object proposals: SelectiveSearch, Randomized Prim’s, EdgeBox, Multiscale Combinatorial Grouping, Sliding Window, Uniform Sampling, and Gaussian Sampling.
+  - This code uses the author provided source codes for generating object proposals: SelectiveSearch, Randomized Prim’s, EdgeBox, Multiscale Combinatorial Grouping, [Sliding Window, Uniform Sampling, and Gaussian Sampling] (https://github.com/hosang/detection-proposals).
 
   - For CNN features, this code uses a ImageNet Caffe Reference model: AlexNet trained on ILSVRC 2012, with a minor variation from the version as described in ImageNet classification with deep convolutional neural networks by Krizhevsky et al. in NIPS 2012.
 
@@ -73,4 +73,5 @@ year = {2016}
 # References
 
 [1] B. Ham, M. Cho, C. Schmid, and J. Ponce,  "Proposal Flow", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+
 [2] C. Liu, J. Yuen, and A. Torralba, "Sift flow: Dense correspondence across scenes and its applications", IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), 2011.
