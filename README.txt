@@ -5,7 +5,7 @@ Contributed by Bumsub Ham (bumsub.ham@inria.fr) and Minsu Cho (minsu.cho@inria.f
 Usage #1: 
 
 - Download VLFeat (http://www.vlfeat.org/) and MatConvNet (http://www.vlfeat.org/matconvnet/).
-- Download the following source code of object proposals or other proposal methods you would like to test:
+- Download the following source codes of object proposal or other proposal methods you would like to test:
 	EdgeBox (https://github.com/pdollar/edges);
 	SelectiveSearch (http://koen.me/research/selectivesearch/);
 	Randomized Prim’s (https://github.com/smanenfr/rp#rp);
