@@ -57,7 +57,7 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
 ```
 @InProceedings{ham2016,
 author = {Bumsub Ham and Minsu Cho and and Cordelia Schmid and Jean Ponce},
-title = {Robust Image Filtering using Joint Static and Dynamic Guidance},
+title = {Proposal Flow},
 booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), IEEE},
 year = {2016}
 }
