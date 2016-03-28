@@ -72,6 +72,6 @@ year = {2016}
   
 # References
 
-[1] B. Ham, M. Cho, C. Schmid, and J. Ponce,  "Proposal Flow", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+[1] B. Ham, M. Cho, C. Schmid, and J. Ponce,  "Proposal Flow", *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), 2016.
 
-[2] C. Liu, J. Yuen, and A. Torralba, "Sift flow: Dense correspondence across scenes and its applications", IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), 2011.
+[2] C. Liu, J. Yuen, and A. Torralba, "Sift flow: Dense correspondence across scenes and its applications", *IEEE Trans. Pattern Anal. Mach. Intell.* (TPAMI), 2011.
