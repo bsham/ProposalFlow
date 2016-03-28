@@ -23,7 +23,7 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
   
 ## Run  
   ```
-  demo.m
+  ./demo.m
   ```
 
 # Usage #2: Dense Flow Fiels
