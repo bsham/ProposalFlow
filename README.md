@@ -6,7 +6,7 @@
 
 This code is written in MATLAB, and implements the ProposalFlow and its benchmark in [1]. For the RSF dataset, see our project page: 
 
-# Benchmark for ProposalFlow 
+# Usage #1: Benchmark for ProposalFlow
   We use the RSF dataset (included) to evaluate sparse and dense versions of ProposalFlow.
 
 ## Dependencies
@@ -24,6 +24,8 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
 ## Run  
   
   demo.m;
+
+### Main functions
   
   
   
