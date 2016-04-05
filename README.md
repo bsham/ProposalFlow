@@ -4,7 +4,7 @@
 >
 > Contributed by Bumsub Ham (bumsub.ham@inria.fr) and Minsu Cho (minsu.cho@inria.fr).
 
-This code is written in MATLAB, and implements the ProposalFlow and its benchmark in [1]. For the PF dataset, see our project page: http://www.di.ens.fr/ willow/research/proposalflow.
+This code is written in MATLAB, and implements the ProposalFlow and its benchmark in [1]. For the PF dataset, see our project page: http://www.di.ens.fr/willow/research/proposalflow.
 
 # Usage #1: Benchmark for ProposalFlow
   We use the PF dataset (included) to evaluate sparse and dense versions of ProposalFlow.
