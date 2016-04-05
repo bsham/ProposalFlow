@@ -4,10 +4,10 @@
 >
 > Contributed by Bumsub Ham (bumsub.ham@inria.fr) and Minsu Cho (minsu.cho@inria.fr).
 
-This code is written in MATLAB, and implements the ProposalFlow and its benchmark in [1]. For the RSF dataset, see our project page: 
+This code is written in MATLAB, and implements the ProposalFlow and its benchmark in [1]. For the PF dataset, see our project page: http://www.di.ens.fr/ willow/research/proposalflow.
 
 # Usage #1: Benchmark for ProposalFlow
-  We use the RSF dataset (included) to evaluate sparse and dense versions of ProposalFlow.
+  We use the PF dataset (included) to evaluate sparse and dense versions of ProposalFlow.
 
 ## Dependencies
   - Download [VLFeat] (http://www.vlfeat.org/) and [MatConvNet] (http://www.vlfeat.org/matconvnet/).
@@ -34,7 +34,7 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
 
 
 # Main functions
-  - `do_prepKP_RSF.m`: load keypoint annotations and save them as a file.
+  - `do_prepKP_PF.m`: load keypoint annotations and save them as a file.
   - `do_ext_proposal.m`: extract object proposals from images.
   - `do_ext_active_proposal.m`: extract valid object proposals (object proposals near object bounding boxes).
   - `do_makeGT.m`: automatically estimate ground-truth matches for valid object proposals using the keypoint annotations and TPS warping.
