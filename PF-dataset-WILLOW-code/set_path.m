@@ -5,7 +5,7 @@
 run('/Users/ham/_research/cv-lib/vlfeat-0.9.20/toolbox/vl_setup');
 
 % matconvnet
-run('/Users/ham/_research/cv-lib/matconvnet-1.0-beta12/matlab/vl_setupnn');
+run('/Users/ham/_research/cv-lib/matconvnet-1.0-beta18/matlab/vl_setupnn');
 
 % common functions
 addpath('./commonFunctions');
