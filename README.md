@@ -19,7 +19,7 @@ This code is written in MATLAB, and implements the ProposalFlow and its benchmar
   - Download a ImageNet [Caffe Reference model] (http://www.vlfeat.org/matconvnet/pretrained/) in `./feature/cnn-model/`. 
 
 ## Setup & Run
-  Set the file path of these libraries in `set_path.m` and matching configulartion (object class, types and numbers of object proposals, and feature) in `set_conf_WILLOW.m` in `./PF-dataset-WILLOW-code/demo_DenseFlow.m` , and run
+  Set the file path of these libraries in `set_path.m` and matching configulartion (object class, types and numbers of object proposals, and feature) in `set_conf_WILLOW.m` in `./PF-dataset-WILLOW-code/`, and run
   
   ```
   demo_BM_PF_WILLOW.m
@@ -71,7 +71,7 @@ year = {2016}
 # Changes
  - **Version 1.0** (28 Mar 2016)
     - Inirial release
-- **Version 1.1** (9 May 2016)
+ - **Version 1.1** (9 May 2016)
     - Improved matching speed (`LOM.m`).    
   
 # References
